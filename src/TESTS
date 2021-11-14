@@ -1,0 +1,18 @@
+-test juego, explotar: funciona
+-test juego, puente: funciona
+
+-test move, bloqueos: funciona
+-test move, success: funciona
+
+-test victoria, despejando_obstaculos: funciona
+-test vicroria, directa-amarin: funciona
+-test victoria, directa-betarote: funciona
+
+-test memoria, basico: funciona
+-test memoria, compartido: funciona
+-test memoria, demanda: funciona
+-test memoria, inválido: funciona
+
+-test nivel 3: funciona
+
+

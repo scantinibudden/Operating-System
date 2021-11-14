@@ -1,0 +1,1 @@
+mapa.o: mapa.c
